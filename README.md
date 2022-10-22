@@ -109,12 +109,14 @@ Cosmetic (6)
 	* Allows you to use voice chat on servers with the plugin installed and with players using the mod.
 * [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) (sk89q)
 	* Gives you tools to build better in creative.
+* [WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) (me4502)
+	* Shows you where your selections are when using WorldEdit selections.
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/) (xaero96)
 	* Shows a minimap in the corner of your screen.
 * [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (xaero96)
 	* Shows a world map when you press M.
 
-**Total: 48**
+**Total: 49**
 
 [Fabric API](https://modrinth.com/mod/fabric-api)
 
@@ -208,8 +210,11 @@ Cosmetic (6)
 
 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
+[WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
+
 [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 
 [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
-(last updated: 10/17/22 MM/DD/YY)
+
+(last updated: 10/22/22 MM/DD/YY)
