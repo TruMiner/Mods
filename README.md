@@ -61,12 +61,13 @@ Cosmetic (6)
 	* Renders entities only when they are in view.
 * [HoldThatChunk](https://modrinth.com/mod/hold-that-chunk) (dlee13)
 	* Fixes high memory issues when loading and unloading chunks on a server.
+* [LazyDFU](https://modrinth.com/mod/lazydfu) (aseti)
+	* Speeds up loading times by fixing some minecraft glitch that I don't understand enough.
 * [Sodium](https://modrinth.com/mod/sodium) (jellysquid3)
 	* You know it, everyone knows it. Changes how the game is rendered.
 	* If using Sodium with other mods that add buttons to video settings, try [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options).
 * [Starlight](https://modrinth.com/mod/starlight) (spottedleaf)
 	* Rewrites the lighting engine.
-
 
 **Utility and Cosmetic (21)**
 
@@ -116,7 +117,7 @@ Cosmetic (6)
 * [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (xaero96)
 	* Shows a world map when you press M.
 
-**Total: 49**
+**Total: 50**
 
 [Fabric API](https://modrinth.com/mod/fabric-api)
 
@@ -186,6 +187,8 @@ Cosmetic (6)
 
 [Item Model Fix](https://modrinth.com/mod/item-model-fix)
 
+[LazyDFU](https://modrinth.com/mod/lazydfu)
+
 [Light Overlay](https://modrinth.com/mod/light-overlay)
 
 [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
@@ -216,5 +219,4 @@ Cosmetic (6)
 
 [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
-
-(last updated: 10/22/22 MM/DD/YY)
+(last updated: 10/29/22 MM/DD/YY)
