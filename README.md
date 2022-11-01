@@ -54,7 +54,7 @@ Cosmetic (6)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra) (FlashyReese)
 	* Adds more options to Sodium to make it more like OptiFine, such as the ability to turn off particles or animated textures.
 
-**Performance (5)**
+**Performance (6)**
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe) (FoundationGames)
 	* Replaces tile entities with blocks until they are opened.
 * [Entity Culling](https://modrinth.com/mod/entityculling) (tr7zw)
@@ -69,7 +69,7 @@ Cosmetic (6)
 * [Starlight](https://modrinth.com/mod/starlight) (spottedleaf)
 	* Rewrites the lighting engine.
 
-**Utility and Cosmetic (21)**
+**Utility and Cosmetic (20)**
 
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) (tr7zw)
 	* Displays skin overlay in 3D rather than in 2D.
