@@ -101,6 +101,8 @@ Cosmetic (6)
 	* Allows you to make and view replays from within the game using a free cam.
 * [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) (MisterPeModder)
 	* Shows you what's inside a shulker box when you hover over it in the inventory.
+* [Spell Checker](https://www.curseforge.com/minecraft/mc-mods/spell-checker/) (Mrbysco)
+	* Shows you when you when you make a typo or misspelled a word.
 * [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators) (ToroCraft)
 	* Shows you how much health is remaining on a mob.
 * [ViaFabric](https://modrinth.com/mod/viafabric) (creeper123123321)
@@ -115,7 +117,7 @@ Cosmetic (6)
 * [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (xaero96)
 	* Shows a world map when you press M.
 
-**Total: 49**
+**Total: 50**
 
 [Fabric API](https://modrinth.com/mod/fabric-api)
 
@@ -202,6 +204,8 @@ Cosmetic (6)
 [Replay Mod](https://replaymod.com/download)
 
 [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
+
+[Spell Checker](https://www.curseforge.com/minecraft/mc-mods/spell-checker/)
 
 [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)
 
