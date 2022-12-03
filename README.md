@@ -69,7 +69,7 @@ Cosmetic (6)
 * [Starlight](https://modrinth.com/mod/starlight) (spottedleaf)
 	* Rewrites the lighting engine.
 
-**Utility and Cosmetic (20)**
+**Utility and Cosmetic (21)**
 
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) (tr7zw)
 	* Displays skin overlay in 3D rather than in 2D.
@@ -85,6 +85,8 @@ Cosmetic (6)
 	* Opens links and folders from chat faster than usual.
 * [Item Model Fix](https://modrinth.com/mod/item-model-fix) (peppercode1)
 	* Fixes the cracks in some items when held.
+* [ItemSwapper](https://modrinth.com/mod/itemswapper) (tr7zw)
+	* Adds a quick selection for items of similar types. Can be customized with a resource pack.
 * [Light Overlay](https://modrinth.com/mod/light-overlay) (shedaniel)
 	* Shows you where mobs can spawn.
 * [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) (masady)
@@ -117,7 +119,7 @@ Cosmetic (6)
 * [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (xaero96)
 	* Shows a world map when you press M.
 
-**Total: 50**
+**Total: 51**
 
 [Fabric API](https://modrinth.com/mod/fabric-api)
 
@@ -187,6 +189,8 @@ Cosmetic (6)
 
 [Item Model Fix](https://modrinth.com/mod/item-model-fix)
 
+[ItemSwapper](https://modrinth.com/mod/itemswapper)
+
 [LazyDFU](https://modrinth.com/mod/lazydfu)
 
 [Light Overlay](https://modrinth.com/mod/light-overlay)
@@ -219,4 +223,4 @@ Cosmetic (6)
 
 [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
-(last updated: 11/21/22 MM/DD/YY)
+(last updated: 12/03/22 MM/DD/YY)
