@@ -225,4 +225,4 @@ Cosmetic (6)
 
 [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
-(last updated: 12/24/22 MM/DD/YY)
+(last updated: 12/25/22 MM/DD/YY)
