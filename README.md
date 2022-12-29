@@ -69,8 +69,6 @@ Cosmetic (6)
 	* Speeds up loading times by fixing some minecraft glitch that I don't understand enough.
 * [Lithium](https://modrinth.com/mod/lithium) (jellysquid3)
 	* "No-compromises game logic/server optimization mod"
-* [Phosphor](https://modrinth.com/mod/phosphor) (jellysquid3)
-	* Fixes lighting engine.
 * [Sodium](https://modrinth.com/mod/sodium) (jellysquid3)
 	* You know it, everyone knows it. Changes how the game is rendered.
 	* If using Sodium with other mods that add buttons to video settings, try [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options).
@@ -129,7 +127,7 @@ Cosmetic (6)
 * [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (xaero96)
 	* Shows a world map when you press M.
 
-**Total: 55 (order may be off)**
+**Total: 54 (order may be off)**
 
 [Fabric API](https://modrinth.com/mod/fabric-api)
 
@@ -162,8 +160,6 @@ Cosmetic (6)
 [OptiGUI](https://modrinth.com/mod/optigui)
 
 [Puzzle](https://modrinth.com/mod/puzzle)
-
-[Phosphor](https://modrinth.com/mod/phosphor)
 
 [Capes](https://modrinth.com/mod/capes)
 
