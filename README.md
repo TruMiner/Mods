@@ -71,7 +71,7 @@ Cosmetic (6)
 * [Starlight](https://modrinth.com/mod/starlight) (spottedleaf)
 	* Rewrites the lighting engine.
 
-**Utility and Cosmetic (21)**
+**Utility and Cosmetic (22)**
 
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) (tr7zw)
 	* Displays skin overlay in 3D rather than in 2D.
@@ -85,6 +85,8 @@ Cosmetic (6)
 	* When consuming a food item it has an animation.
 * [FastOpenLinksAndFolders](https://modrinth.com/mod/fastopenlinksandfolders) (altrisi)
 	* Opens links and folders from chat faster than usual.
+* [Gamma Utils](https://modrinth.com/mod/gamma-utils) (Sjouwer)
+	* Allows full bright and high gamma. I only use this on servers I am allowed to use it on.
 * [Item Model Fix](https://modrinth.com/mod/item-model-fix) (peppercode1)
 	* Fixes the cracks in some items when held.
 * [ItemSwapper](https://modrinth.com/mod/itemswapper) (tr7zw)
@@ -121,7 +123,7 @@ Cosmetic (6)
 * [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (xaero96)
 	* Shows a world map when you press M.
 
-**Total: 51**
+**Total: 52**
 
 [Fabric API](https://modrinth.com/mod/fabric-api)
 
@@ -189,6 +191,8 @@ Cosmetic (6)
 
 [FastOpenLinksAndFolders](https://modrinth.com/mod/fastopenlinksandfolders)
 
+[Gamma Utils](https://modrinth.com/mod/gamma-utils)
+
 [Item Model Fix](https://modrinth.com/mod/item-model-fix)
 
 [ItemSwapper](https://modrinth.com/mod/itemswapper)
@@ -225,4 +229,4 @@ Cosmetic (6)
 
 [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
-(last updated: 12/25/22 MM/DD/YY)
+(last updated: 12/29/22 MM/DD/YY)
