@@ -61,10 +61,16 @@ Cosmetic (6)
 	* Replaces tile entities with blocks until they are opened.
 * [Entity Culling](https://modrinth.com/mod/entityculling) (tr7zw)
 	* Renders entities only when they are in view.
+* [FerriteCore](https://modrinth.com/mod/ferrite-core) (malte0811)
+	*Decreases memory usage.
 * [HoldThatChunk](https://modrinth.com/mod/hold-that-chunk) (dlee13)
 	* Fixes high memory issues when loading and unloading chunks on a server.
 * [LazyDFU](https://modrinth.com/mod/lazydfu) (aseti)
 	* Speeds up loading times by fixing some minecraft glitch that I don't understand enough.
+* [Lithium](https://modrinth.com/mod/lithium) (jellysquid3)
+	* "No-compromises game logic/server optimization mod"
+* [Phosphor](https://modrinth.com/mod/phosphor) (jellysquid3)
+	* Fixes lighting engine.
 * [Sodium](https://modrinth.com/mod/sodium) (jellysquid3)
 	* You know it, everyone knows it. Changes how the game is rendered.
 	* If using Sodium with other mods that add buttons to video settings, try [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options).
@@ -123,7 +129,7 @@ Cosmetic (6)
 * [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) (xaero96)
 	* Shows a world map when you press M.
 
-**Total: 52**
+**Total: 55 (order may be off)**
 
 [Fabric API](https://modrinth.com/mod/fabric-api)
 
@@ -157,11 +163,15 @@ Cosmetic (6)
 
 [Puzzle](https://modrinth.com/mod/puzzle)
 
+[Phosphor](https://modrinth.com/mod/phosphor)
+
 [Capes](https://modrinth.com/mod/capes)
 
 [Iris Shaders](https://modrinth.com/mod/iris)
 
 [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+
+[Lithium](https://modrinth.com/mod/lithium)
 
 [Logical Zoom](https://modrinth.com/mod/logical-zoom)
 
@@ -172,6 +182,8 @@ Cosmetic (6)
 [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 
 [Entity Culling](https://modrinth.com/mod/entityculling)
+
+[FerriteCore](https://modrinth.com/mod/ferrite-core)
 
 [HoldThatChunk](https://modrinth.com/mod/hold-that-chunk)
 
