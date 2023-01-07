@@ -1,7 +1,7 @@
 # Mods
 This is a list of all the mods I use and categorized.
 
-Note: Some of the mods aren't updated to 1.19.3 yet ([Animatica](https://modrinth.com/mod/animatica), [CIT Resewn](https://modrinth.com/mod/cit-resewn), [Colormatic](https://modrinth.com/mod/colormatic), [Continuity](https://modrinth.com/mod/continuity), [Enhanced Block Entities](https://modrinth.com/mod/ebe), [Emoji Type](https://modrinth.com/mod/emoji-type), [FastOpenLinksAndFolders](https://modrinth.com/mod/fastopenlinksandfolders), [Item Model Fix](https://modrinth.com/mod/item-model-fix), [Light Overlay](https://modrinth.com/mod/light-overlay), [NBT Tooltip](https://modrinth.com/mod/nbttooltip), [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators), [JsonEM](https://modrinth.com/mod/jsonem)). Also, I use the following mods alongside [Create Fabric](https://modrinth.com/mod/create-fabric) (tropheusj) and [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (mezz) on one of the servers I play on.
+Note: Some of the mods aren't updated to 1.19.3 yet ([Animatica](https://modrinth.com/mod/animatica), [Colormatic](https://modrinth.com/mod/colormatic), [Continuity](https://modrinth.com/mod/continuity), [Enhanced Block Entities](https://modrinth.com/mod/ebe), [Emoji Type](https://modrinth.com/mod/emoji-type), [FastOpenLinksAndFolders](https://modrinth.com/mod/fastopenlinksandfolders), [Item Model Fix](https://modrinth.com/mod/item-model-fix), [NBT Tooltip](https://modrinth.com/mod/nbttooltip), [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators), [JsonEM](https://modrinth.com/mod/jsonem)). Also, I use the following mods alongside [Create Fabric](https://modrinth.com/mod/create-fabric) (tropheusj) and [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (mezz) on one of the servers I play on.
 
 **Important Mods (8)**
 * [Fabric API](https://modrinth.com/mod/fabric-api) (modmuss50)
@@ -237,4 +237,4 @@ Cosmetic (6)
 
 [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
-(last updated: 12/29/22 MM/DD/YY)
+(last updated: 1/7/23 MM/DD/YY)
